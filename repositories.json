@@ -1,0 +1,368 @@
+[
+    {
+        "repositoryName": "viewer-walkthrough-online.viewer",
+        "repositoryDescription": "Online Viewer Walkthrough: Build a viewer that converts and displays models on a browser",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-walkthrough-online.viewer",
+        "repositoryWebpageContent": "Online Viewer Walkthrough: Build a viewer that converts and displays models on a browser"
+    },
+    {
+        "repositoryName": "viewer-navigation.sample",
+        "repositoryDescription": "3D model navigation pane: Navigates a 3D model using a synchronized 2D map pane",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-navigation.sample",
+        "repositoryWebpageContent": "3D model navigation pane: Navigates a 3D model using a synchronized 2D map pane"
+    },
+    {
+        "repositoryName": "data.management-csharp-sample",
+        "repositoryDescription": "Build tree view of content: Using the jsTree library, this sample shows you how to build a basic tree view of Hubs, Projects, Folders and Items. Supports menus and reloading among other features",
+        "repositoryURL": "https://github.com/Autodesk-Forge/data.management-csharp-sample",
+        "repositoryWebpageContent": "Build tree view of content: Using the jsTree library, this sample shows you how to build a basic tree view of Hubs, Projects, Folders and Items. Supports menus and reloading among other features"
+    },
+    {
+        "repositoryName": "data.management-csharp-desktop.sample",
+        "repositoryDescription": "Autodesk design file explorer for desktop: Demonstrates a desktop application that shows BIM 360 Team, BIM 360 Docs and Fusion Team hubs, which respective Projects, Folders, Items and Versions",
+        "repositoryURL": "https://github.com/Autodesk-Forge/data.management-csharp-desktop.sample",
+        "repositoryWebpageContent": "Autodesk design file explorer for desktop: Demonstrates a desktop application that shows BIM 360 Team, BIM 360 Docs and Fusion Team hubs, which respective Projects, Folders, Items and Versions"
+    },
+    {
+        "repositoryName": "bim360-csharp-issues",
+        "repositoryDescription": "BIM 360 Issues: This sample demonstrates the Document Issues API for BIM 360 using the built-in PushPin Viewer extension",
+        "repositoryURL": "https://github.com/Autodesk-Forge/bim360-csharp-issues",
+        "repositoryWebpageContent": "BIM 360 Issues: This sample demonstrates the Document Issues API for BIM 360 using the built-in PushPin Viewer extension"
+    },
+    {
+        "repositoryName": "forge-api-java-client",
+        "repositoryDescription": "Forge Java SDK: Provides Java SDK to help you easily integrate Forge REST APIs into the application",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge-api-java-client",
+        "repositoryWebpageContent": "Forge Java SDK: Provides Java SDK to help you easily integrate Forge REST APIs into the application"
+    },
+    {
+        "repositoryName": "data.management-csharp-webhook",
+        "repositoryDescription": "Webhooks for Data Management API:Use a database to store refresh token and access files (on BIM 360) later",
+        "repositoryURL": "https://github.com/Autodesk-Forge/data.management-csharp-webhook",
+        "repositoryWebpageContent": "Webhooks for Data Management API:Use a database to store refresh token and access files (on BIM 360) later"
+    },
+    {
+        "repositoryName": "oauth-walkthrough-2.legged.auth",
+        "repositoryDescription": "2-Legged Authentication walkthrough: Learn how to use two-legged authentication",
+        "repositoryURL": "https://github.com/Autodesk-Forge/oauth-walkthrough-2.legged.auth",
+        "repositoryWebpageContent": "2-Legged Authentication walkthrough: Learn how to use two-legged authentication"
+    },
+    {
+        "repositoryName": "recap-walkthrough-photo.to.3d",
+        "repositoryDescription": "Photo To 3D Walkthrough: Use the Reality Capture API to process photos stored in the cloud and generate a 3D file",
+        "repositoryURL": "https://github.com/Autodesk-Forge/recap-walkthrough-photo.to.3d",
+        "repositoryWebpageContent": "Photo To 3D Walkthrough: Use the Reality Capture API to process photos stored in the cloud and generate a 3D file"
+    },
+    {
+        "repositoryName": "bim360appstore-viewer-nodejs-visual.reports",
+        "repositoryDescription": "BIM360 project dashboard example: Demonstrates how to extract properties from BIM360 elements and generate a project dashboard",
+        "repositoryURL": "https://github.com/Autodesk-Forge/bim360appstore-viewer-nodejs-visual.reports",
+        "repositoryWebpageContent": "BIM360 project dashboard example: Demonstrates how to extract properties from BIM360 elements and generate a project dashboard"
+    },
+    {
+        "repositoryName": "viewer-nodejs-tutorial",
+        "repositoryDescription": "DEPRECATED, please visit our new Forge Learning material here:",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-nodejs-tutorial",
+        "repositoryWebpageContent": "DEPRECATED, please visit our new Forge Learning material here:"
+    },
+    {
+        "repositoryName": "forge-api-dotnet-client",
+        "repositoryDescription": "Forge .Net SDK: Provides .Net SDK to help you easily integrate Forge REST APIs into the application",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge-api-dotnet-client",
+        "repositoryWebpageContent": "Forge .Net SDK: Provides .Net SDK to help you easily integrate Forge REST APIs into the application"
+    },
+    {
+        "repositoryName": "autodesk.forge.aws-cloudformation.nodejs",
+        "repositoryDescription": "",
+        "repositoryURL": "https://github.com/Autodesk-Forge/autodesk.forge.aws-cloudformation.nodejs",
+        "repositoryWebpageContent": ""
+    },
+    {
+        "repositoryName": "learn.forge.viewmodels",
+        "repositoryDescription": "Learn Forge Tutorial: View your models using 2-legged OAuth. Available in Nodejs, .NET, Go, PHP & Java",
+        "repositoryURL": "https://github.com/Autodesk-Forge/learn.forge.viewmodels",
+        "repositoryWebpageContent": "Learn Forge Tutorial: View your models using 2-legged OAuth. Available in Nodejs, .NET, Go, PHP & Java"
+    },
+    {
+        "repositoryName": "bim360appstore-model.derivative-nodejs-xls.exporter",
+        "repositoryDescription": "BIM360 data to Excel: Let you export the Revit data, hosted on BIM360, into an Excel file",
+        "repositoryURL": "https://github.com/Autodesk-Forge/bim360appstore-model.derivative-nodejs-xls.exporter",
+        "repositoryWebpageContent": "BIM360 data to Excel: Let you export the Revit data, hosted on BIM360, into an Excel file"
+    },
+    {
+        "repositoryName": "design.automation-java-simple.sample",
+        "repositoryDescription": "Plot to PDF Java Client: Shows how to issue a direct HTTP requests to call the Design Automation API",
+        "repositoryURL": "https://github.com/Autodesk-Forge/design.automation-java-simple.sample",
+        "repositoryWebpageContent": "Plot to PDF Java Client: Shows how to issue a direct HTTP requests to call the Design Automation API"
+    },
+    {
+        "repositoryName": "data.management-nodejs-integration.box",
+        "repositoryDescription": "https://github.com/Autodesk-Forge/bim360appstore-data.management-nodejs-transfer.storage",
+        "repositoryURL": "https://github.com/Autodesk-Forge/data.management-nodejs-integration.box",
+        "repositoryWebpageContent": "DEPRECATED, please use"
+    },
+    {
+        "repositoryName": "aec-visual-reports",
+        "repositoryDescription": "https://github.com/Autodesk-Forge/bim360appstore-viewer-nodejs-visual.reports",
+        "repositoryURL": "https://github.com/Autodesk-Forge/aec-visual-reports",
+        "repositoryWebpageContent": "DEPRECATED, please visit"
+    },
+    {
+        "repositoryName": "design.automation-python-tutorial",
+        "repositoryDescription": "Design Automation sample in Python: Shows how to get token and check the status of one existing work item",
+        "repositoryURL": "https://github.com/Autodesk-Forge/design.automation-python-tutorial",
+        "repositoryWebpageContent": "Design Automation sample in Python: Shows how to get token and check the status of one existing work item"
+    },
+    {
+        "repositoryName": "model.derivative-WebAPI-sample",
+        "repositoryDescription": "View models from listof buckets and objects: This basic C# WebAPI back-end sample implements a basic list of Buckets and Objects with an Autodesk Forge 2-Legged Token",
+        "repositoryURL": "https://github.com/Autodesk-Forge/model.derivative-WebAPI-sample",
+        "repositoryWebpageContent": "View models from listof buckets and objects: This basic C# WebAPI back-end sample implements a basic list of Buckets and Objects with an Autodesk Forge 2-Legged Token"
+    },
+    {
+        "repositoryName": "forge.wpf.csharp",
+        "repositoryDescription": "Authorization and file translation demo in C#.Net :Demonstrates Autodesk Forge API authorization and translation process using a C#/.Net WPF application",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge.wpf.csharp",
+        "repositoryWebpageContent": "Authorization and file translation demo in C#.Net :Demonstrates Autodesk Forge API authorization and translation process using a C#/.Net WPF application"
+    },
+    {
+        "repositoryName": "viewer-javascript-visual.reports",
+        "repositoryDescription": "https://github.com/Autodesk-Forge/bim360appstore-viewer-nodejs-visual.reports",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-javascript-visual.reports",
+        "repositoryWebpageContent": "DEPRECATED, please use"
+    },
+    {
+        "repositoryName": "design.automation-.net-basic-sample",
+        "repositoryDescription": "Plot to PDF in C#: Shows how to issue a direct HTTP requests to call the Design Automation API",
+        "repositoryURL": "https://github.com/Autodesk-Forge/design.automation-.net-basic-sample",
+        "repositoryWebpageContent": "Plot to PDF in C#: Shows how to issue a direct HTTP requests to call the Design Automation API"
+    },
+    {
+        "repositoryName": "design.automation-.net-custom.activity.sample",
+        "repositoryDescription": "Design Automation Sample in C#: C# sample to demonstrate custom Activities and AppPackages creation",
+        "repositoryURL": "https://github.com/Autodesk-Forge/design.automation-.net-custom.activity.sample",
+        "repositoryWebpageContent": "Design Automation Sample in C#: C# sample to demonstrate custom Activities and AppPackages creation"
+    },
+    {
+        "repositoryName": "design.automation-.net-input.output.sample",
+        "repositoryDescription": "Specify inputs for work item: In this Design Automation C# sample, see various ways of specifying inputs for a workitem",
+        "repositoryURL": "https://github.com/Autodesk-Forge/design.automation-.net-input.output.sample",
+        "repositoryWebpageContent": "Specify inputs for work item: In this Design Automation C# sample, see various ways of specifying inputs for a workitem"
+    },
+    {
+        "repositoryName": "design.automation-.net-library",
+        "repositoryDescription": ".NET library for Design Automation: Contains helper methods to perform tasks related to Design Automation. Shows workflows of AWS S3 such as uploading objects to bucket.",
+        "repositoryURL": "https://github.com/Autodesk-Forge/design.automation-.net-library",
+        "repositoryWebpageContent": ".NET library for Design Automation: Contains helper methods to perform tasks related to Design Automation. Shows workflows of AWS S3 such as uploading objects to bucket."
+    },
+    {
+        "repositoryName": "design.automation-workflow-winform-sample",
+        "repositoryDescription": "Design Automation WinForm application: Perform workflow tasks from the Design Automation API such as creating custom activities, creating AppPackage, submitting work item requests and viewing downloaded results",
+        "repositoryURL": "https://github.com/Autodesk-Forge/design.automation-workflow-winform-sample",
+        "repositoryWebpageContent": "Design Automation WinForm application: Perform workflow tasks from the Design Automation API such as creating custom activities, creating AppPackage, submitting work item requests and viewing downloaded results"
+    },
+    {
+        "repositoryName": "design.automation-windows-services-sample",
+        "repositoryDescription": "Plot drawing in a folder: Windows service sample to plot a drawing placed in a folder using Design Automation API",
+        "repositoryURL": "https://github.com/Autodesk-Forge/design.automation-windows-services-sample",
+        "repositoryWebpageContent": "Plot drawing in a folder: Windows service sample to plot a drawing placed in a folder using Design Automation API"
+    },
+    {
+        "repositoryName": "reality.capture-nodejs-photo.to.3d",
+        "repositoryDescription": "Photo to 3d: Creates 3d models from photos using Node.js",
+        "repositoryURL": "https://github.com/Autodesk-Forge/reality.capture-nodejs-photo.to.3d",
+        "repositoryWebpageContent": "Photo to 3d: Creates 3d models from photos using Node.js"
+    },
+    {
+        "repositoryName": "forge.commandline-curl",
+        "repositoryDescription": "Authorization and file translation demo: Demonstrates Autodesk Forge API authorization and translation process using cURL",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge.commandline-curl",
+        "repositoryWebpageContent": "Authorization and file translation demo: Demonstrates Autodesk Forge API authorization and translation process using cURL"
+    },
+    {
+        "repositoryName": "forge.commandline-nodejs",
+        "repositoryDescription": "Authorisation and translation via console application: Command line tool demonstrating the authorisation and translation process using a Node.js console application",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge.commandline-nodejs",
+        "repositoryWebpageContent": "Authorisation and translation via console application: Command line tool demonstrating the authorisation and translation process using a Node.js console application"
+    },
+    {
+        "repositoryName": "models.autodesk.io",
+        "repositoryDescription": "Authorization and file translation demo in Node.js : Translates your 2D/3D models online for the Forge Viewer without programming at all",
+        "repositoryURL": "https://github.com/Autodesk-Forge/models.autodesk.io",
+        "repositoryWebpageContent": "Authorization and file translation demo in Node.js : Translates your 2D/3D models online for the Forge Viewer without programming at all"
+    },
+    {
+        "repositoryName": "viewer-nodejs-typeview.sample",
+        "repositoryDescription": "Basic viewer using TypeScript: Demonstrates how to create the viewer on a browser interface using TypeScript",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-nodejs-typeview.sample",
+        "repositoryWebpageContent": "Basic viewer using TypeScript: Demonstrates how to create the viewer on a browser interface using TypeScript"
+    },
+    {
+        "repositoryName": "model.derivative-csharp-context.menu",
+        "repositoryDescription": "Extract properties from Revit files: Adds context menu for extracting properties for Revit files and save into an excel file",
+        "repositoryURL": "https://github.com/Autodesk-Forge/model.derivative-csharp-context.menu",
+        "repositoryWebpageContent": "Extract properties from Revit files: Adds context menu for extracting properties for Revit files and save into an excel file"
+    },
+    {
+        "repositoryName": "data.management-nodejs-webhook",
+        "repositoryDescription": "Data Management WebHook sample with SMS, Email and Slack notifications",
+        "repositoryURL": "https://github.com/Autodesk-Forge/data.management-nodejs-webhook",
+        "repositoryWebpageContent": "Data Management WebHook sample with SMS, Email and Slack notifications"
+    },
+    {
+        "repositoryName": "model.derivative-nodejs-google.drive.viewer",
+        "repositoryDescription": "View models from Google Drive: Sample Viewer application that displays files of supported formats from Google Drive, and generates them in the Viewer",
+        "repositoryURL": "https://github.com/Autodesk-Forge/model.derivative-nodejs-google.drive.viewer",
+        "repositoryWebpageContent": "View models from Google Drive: Sample Viewer application that displays files of supported formats from Google Drive, and generates them in the Viewer"
+    },
+    {
+        "repositoryName": "viewer-javascript-offline.sample",
+        "repositoryDescription": "Offline viewing: Use the viewer to run local files",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-javascript-offline.sample",
+        "repositoryWebpageContent": "Offline viewing: Use the viewer to run local files"
+    },
+    {
+        "repositoryName": "learn.forge.viewhubmodels",
+        "repositoryDescription": "Learn Forge Tutorial: View your BIM 360 & Fusion models using 3-legged OAuth. Available in Nodejs & .NET",
+        "repositoryURL": "https://github.com/Autodesk-Forge/learn.forge.viewhubmodels",
+        "repositoryWebpageContent": "Learn Forge Tutorial: View your BIM 360 & Fusion models using 3-legged OAuth. Available in Nodejs & .NET"
+    },
+    {
+        "repositoryName": "bucket.manager-csharp-sample.tool",
+        "repositoryDescription": "View, Upload & Translate models: Desktop sample tool (.NET) to manage bucket, objects and translations (extract SVF)",
+        "repositoryURL": "https://github.com/Autodesk-Forge/bucket.manager-csharp-sample.tool",
+        "repositoryWebpageContent": "View, Upload & Translate models: Desktop sample tool (.NET) to manage bucket, objects and translations (extract SVF)"
+    },
+    {
+        "repositoryName": "forge-api-nodejs-client",
+        "repositoryDescription": "Forge Node.js SDK: Provides Node.js SDK to help you easily integrate Forge REST APIs into the application",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge-api-nodejs-client",
+        "repositoryWebpageContent": "Forge Node.js SDK: Provides Node.js SDK to help you easily integrate Forge REST APIs into the application"
+    },
+    {
+        "repositoryName": "forge-rcdb.nodejs",
+        "repositoryDescription": "Forge Responsive Connected Database: A responsive React-based web application that showcases the use of Autodesk Forge Viewer and Forge web services ...",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge-rcdb.nodejs",
+        "repositoryWebpageContent": "Forge Responsive Connected Database: A responsive React-based web application that showcases the use of Autodesk Forge Viewer and Forge web services ..."
+    },
+    {
+        "repositoryName": "model.derivative-swift-sample",
+        "repositoryDescription": "Generate thumbnail from files: This sample shows how you can use the Data Management API to upload files to your application's own private bucket on OSS, get it translated using the Model Derivative API and then retrieve the generated thumbnail",
+        "repositoryURL": "https://github.com/Autodesk-Forge/model.derivative-swift-sample",
+        "repositoryWebpageContent": "Generate thumbnail from files: This sample shows how you can use the Data Management API to upload files to your application's own private bucket on OSS, get it translated using the Model Derivative API and then retrieve the generated thumbnail"
+    },
+    {
+        "repositoryName": "viewer-steampunked-morgan",
+        "repositoryDescription": "Morgan 3 wheeler interactive viewer: Displays Morgan 3 Wheeler model using Forge Viewer",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-steampunked-morgan",
+        "repositoryWebpageContent": "Morgan 3 wheeler interactive viewer: Displays Morgan 3 Wheeler model using Forge Viewer"
+    },
+    {
+        "repositoryName": "viewer-nodejs-model.as.a.service",
+        "repositoryDescription": "Viewer workflow and learning guide: Enables you to upload models and test client APIs live",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-nodejs-model.as.a.service",
+        "repositoryWebpageContent": "Viewer workflow and learning guide: Enables you to upload models and test client APIs live"
+    },
+    {
+        "repositoryName": "forge-boilers.nodejs",
+        "repositoryDescription": "Node.js boilerplate examples collection: Demonstrates Forge NPM packages",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge-boilers.nodejs",
+        "repositoryWebpageContent": "Node.js boilerplate examples collection: Demonstrates Forge NPM packages"
+    },
+    {
+        "repositoryName": "viewer-javascript-extract.spreadsheet",
+        "repositoryDescription": "Extract Revit Properties into Excel: This sample uses Model Derivative API endpoints to read a Revit project properties and create a XLSX Excel file with one sheet for each type/category with all objects on it",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-javascript-extract.spreadsheet",
+        "repositoryWebpageContent": "Extract Revit Properties into Excel: This sample uses Model Derivative API endpoints to read a Revit project properties and create a XLSX Excel file with one sheet for each type/category with all objects on it"
+    },
+    {
+        "repositoryName": "viewer-meteor-sample",
+        "repositoryDescription": "Use Viewer with Meteor: This sample demonstrates how to embed the Forge viewer into a Meteor application",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-meteor-sample",
+        "repositoryWebpageContent": "Use Viewer with Meteor: This sample demonstrates how to embed the Forge viewer into a Meteor application"
+    },
+    {
+        "repositoryName": "forge-ruby-sample-app",
+        "repositoryDescription": "Getting started with the Viewer in Ruby: Demonstrates how to use the OAuth, Data Management and Model Derivative Forge APIs, as well as the Forge Viewer JavaScript library",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge-ruby-sample-app",
+        "repositoryWebpageContent": "Getting started with the Viewer in Ruby: Demonstrates how to use the OAuth, Data Management and Model Derivative Forge APIs, as well as the Forge Viewer JavaScript library"
+    },
+    {
+        "repositoryName": "library-javascript-viewer-extensions",
+        "repositoryDescription": "A collection of various JavaScript extensions for the Forge viewer",
+        "repositoryURL": "https://github.com/Autodesk-Forge/library-javascript-viewer-extensions",
+        "repositoryWebpageContent": "A collection of various JavaScript extensions for the Forge viewer"
+    },
+    {
+        "repositoryName": "design.automation-custom-data-viewer",
+        "repositoryDescription": "DWG custom data viewer: End to end sample that demonstrates extracting custom data from DWG files interacting with it in the Viewer",
+        "repositoryURL": "https://github.com/Autodesk-Forge/design.automation-custom-data-viewer",
+        "repositoryWebpageContent": "DWG custom data viewer: End to end sample that demonstrates extracting custom data from DWG files interacting with it in the Viewer"
+    },
+    {
+        "repositoryName": "forge-php-client",
+        "repositoryDescription": "Forge PHP SDK: Enables you to easily integrate the Forge REST APIs into your application, including OAuth, Data Management,Model Derivative, and Design Automation",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge-php-client",
+        "repositoryWebpageContent": "Forge PHP SDK: Enables you to easily integrate the Forge REST APIs into your application, including OAuth, Data Management,Model Derivative, and Design Automation"
+    },
+    {
+        "repositoryName": "design.automation-asp.net-cabinet-sample",
+        "repositoryDescription": "Generate a closet design: An ASP.Net Web application using the Design Automation API and Viewer library to customize, view and create a closet drawing",
+        "repositoryURL": "https://github.com/Autodesk-Forge/design.automation-asp.net-cabinet-sample",
+        "repositoryWebpageContent": "Generate a closet design: An ASP.Net Web application using the Design Automation API and Viewer library to customize, view and create a closet drawing"
+    },
+    {
+        "repositoryName": "viewer-react-express-headless",
+        "repositoryDescription": "Headless viewer: Creates a custom Viewer GUI using react-express",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-react-express-headless",
+        "repositoryWebpageContent": "Headless viewer: Creates a custom Viewer GUI using react-express"
+    },
+    {
+        "repositoryName": "bim360appstore-data.management-nodejs-transfer.storage",
+        "repositoryDescription": "Autodesk design file transfer app: Transfers files from Autodesk (BIM 360, Fusion 360) to other Storages (Dropbox, Box, Onedrive, Google Drive, Egnyte)",
+        "repositoryURL": "https://github.com/Autodesk-Forge/bim360appstore-data.management-nodejs-transfer.storage",
+        "repositoryWebpageContent": "Autodesk design file transfer app: Transfers files from Autodesk (BIM 360, Fusion 360) to other Storages (Dropbox, Box, Onedrive, Google Drive, Egnyte)"
+    },
+    {
+        "repositoryName": "viewer-javascript-debugger.tool",
+        "repositoryDescription": "Viewer debugger: Test all the API functions of the Viewer. Use it as a learning and diagnostic tool for the library and steal source code snippets to jumpstart your own app.",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-javascript-debugger.tool",
+        "repositoryWebpageContent": "Viewer debugger: Test all the API functions of the Viewer. Use it as a learning and diagnostic tool for the library and steal source code snippets to jumpstart your own app."
+    },
+    {
+        "repositoryName": "model.derivative-nodejs-sample",
+        "repositoryDescription": "Autodesk design file explorer: Shows how to use the Forge APIs from Node.js - focusing on Model Derivative API",
+        "repositoryURL": "https://github.com/Autodesk-Forge/model.derivative-nodejs-sample",
+        "repositoryWebpageContent": "Autodesk design file explorer: Shows how to use the Forge APIs from Node.js - focusing on Model Derivative API"
+    },
+    {
+        "repositoryName": "forge-react-boiler.nodejs",
+        "repositoryDescription": "React and Node.js boilerplate examples collection: Provides a boilerplate project for using the Forge APIs in a modern React + Node.js web application",
+        "repositoryURL": "https://github.com/Autodesk-Forge/forge-react-boiler.nodejs",
+        "repositoryWebpageContent": "React and Node.js boilerplate examples collection: Provides a boilerplate project for using the Forge APIs in a modern React + Node.js web application"
+    },
+    {
+        "repositoryName": "model.derivative-nodejs-box.viewer",
+        "repositoryDescription": "View models from Box: Sample Viewer application that displays files of supported formats from Box, and generates them in the Viewer",
+        "repositoryURL": "https://github.com/Autodesk-Forge/model.derivative-nodejs-box.viewer",
+        "repositoryWebpageContent": "View models from Box: Sample Viewer application that displays files of supported formats from Box, and generates them in the Viewer"
+    },
+    {
+        "repositoryName": "core-php-client",
+        "repositoryDescription": "",
+        "repositoryURL": "https://github.com/Autodesk-Forge/core-php-client",
+        "repositoryWebpageContent": ""
+    },
+    {
+        "repositoryName": "autodesk-forge.github.io",
+        "repositoryDescription": "Github page entry point for this repository",
+        "repositoryURL": "https://github.com/Autodesk-Forge/autodesk-forge.github.io",
+        "repositoryWebpageContent": "Github page entry point for this repository"
+    },
+    {
+        "repositoryName": "viewer-android-sample",
+        "repositoryDescription": "Translate and view on Android: Demonstrates how to translate a 2D/3D file and view in the browser for Android devices",
+        "repositoryURL": "https://github.com/Autodesk-Forge/viewer-android-sample",
+        "repositoryWebpageContent": "Translate and view on Android: Demonstrates how to translate a 2D/3D file and view in the browser for Android devices"
+    }
+]
